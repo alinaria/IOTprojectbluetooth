@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IOTprojectbluetooth</string>
+    <string name="buttonsend">Envoyer</string>
+    <string name="buttonlisten">Listen</string>
+    <string name="buttongetnewdevices">Get new devices</string>
+    <string name="buttonsgetvsible">Get visible</string>
+    <string name="textreceived">Text received :</string>
+    <string name="textreceiveddisplayed">----------</string>
+    <string name="texttosend">----------</string>
+    <string name="listdevices"></string>
+    <string name="listnewdevices"></string>
+    <string name="textstatus">Status</string>
+</resources>
